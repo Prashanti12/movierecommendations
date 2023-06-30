@@ -1,5 +1,5 @@
 # Movie Recommendation System
-INTRODUCTION
+
 Recommendation systems are becoming increasingly important in
 today’s hectic world. People are always in the lookout for
 products/services that are best suited for them. Therefore, the
@@ -9,6 +9,7 @@ Entertainment is very crucial in today’s world for almost everybody.
 Everyone wants to watch a good movie without getting bored and
 without wasting time and money. So this is when a recommendation
 system comes to work.
+
 In this project, we will understand the basics of Recommendation
 Systems and learn how to build a Movie Recommendation System
 by implementing the K-Nearest Neighbors algorithm. We will also
