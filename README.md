@@ -20,7 +20,7 @@ project, and we will share our progress and results with the wider
 community. We believe that our project can make a contribution to
 the field of movie recommendation and machine learning
 
-DATASETS
+# DATASETS
 
 The dataset used in this context is downloaded from MovieLens
 datasets and saved to the working directory.
@@ -32,4 +32,11 @@ movies.
 2. rating.csv : this file contain ratings given by userId to MovieId and
 rating given to movieId.
 
-Deploying the model: Here streamlit is used to deploy the model.
+# Libraries Used
+1.NumPy
+2.Pandas
+3.Mathplotlib
+4.Streamlit
+
+# Deploying the model:
+Here streamlit is used to deploy the model.
