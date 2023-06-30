@@ -19,3 +19,15 @@ We are committed to developing a transparent and accessible
 project, and we will share our progress and results with the wider
 community. We believe that our project can make a contribution to
 the field of movie recommendation and machine learning
+
+DATASETS
+
+The dataset used in this context is downloaded from MovieLens
+datasets and saved to the working directory.
+To read the contents of the file into a Python program, used the
+Pandas library's "read_csv()" function. It has information about
+9000 unique movies. It has two csv files:
+1. movies.csv : this file contain movieId,title of movies and genre of
+movies.
+2. rating.csv : this file contain ratings given by userId to MovieId and
+rating given to movieId.
