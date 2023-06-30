@@ -31,3 +31,5 @@ Pandas library's "read_csv()" function. It has information about
 movies.
 2. rating.csv : this file contain ratings given by userId to MovieId and
 rating given to movieId.
+
+Deploying the model: Here streamlit is used to deploy the model.
