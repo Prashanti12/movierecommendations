@@ -11,7 +11,7 @@ without wasting time and money. So this is when a recommendation
 system comes to work.
 
 In this project, we will understand the basics of Recommendation
-Systems and learn how to build a Movie Recommendation System
+Systems and learn how to build an ITEM based Movie Recommendation System
 by implementing the K-Nearest Neighbors algorithm. We will also
 predict the rating of the given movie based on its neighbors and
 compare it with the actual rating.
