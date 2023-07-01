@@ -19,6 +19,7 @@ We are committed to developing a transparent and accessible
 project, and we will share our progress and results with the wider
 community. We believe that our project can make a contribution to
 the field of movie recommendation and machine learning
+[Project-Report](https://drive.google.com/file/d/1iYuk0BfW99bLWCvespiU_UBzlp7QViJS/view?usp=sharing)
 
 # DATASETS
 
