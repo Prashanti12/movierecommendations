@@ -41,3 +41,9 @@ rating given to movieId.
 
 # Deploying the model:
 Here streamlit is used to deploy the model.
+
+
+https://github.com/Prashanti12/movierecommendations/assets/88150556/caa22a34-42c6-46a2-9613-2e693a4693c8
+
+
+
